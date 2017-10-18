@@ -1,0 +1,23 @@
+{
+  "name": "beginner_express",
+  "version": "1.0.0",
+  "description": "A basic app for Friends fans",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaojenkuo/beginner_express.git"
+  },
+  "author": "Yao-Jen Kuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaojenkuo/beginner_express/issues"
+  },
+  "homepage": "https://github.com/yaojenkuo/beginner_express#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
